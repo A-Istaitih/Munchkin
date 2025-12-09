@@ -1,5 +1,5 @@
 //
-// Created by Waseem Ibraheem on 19/06/2022.
+// Created by Istaitih
 //
 
 #ifndef MATAM_EX4_GANG_H
