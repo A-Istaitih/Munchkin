@@ -1,5 +1,5 @@
 //
-// Created by Waseem Ibraheem on 13/06/2022.
+// Created byIstaitih
 //
 
 #ifndef MATAM_EX4_BATTLECARD_H
